@@ -1,3 +1,3 @@
 # img
 
-picgo 图床
+picX图床
